@@ -1,44 +1,74 @@
-# 📡 Ingeniería en Telecomunicaciones - Universidad de Palermo (Plan 2026)
+# 📡 Ingeniería en Telecomunicaciones - UP (Plan 2026)
 
-[cite_start]Este repositorio centraliza los **resúmenes, guías y material de estudio** de la carrera de Ingeniería en Telecomunicaciones en la UP, iniciando la cohorte en marzo de 2025[cite: 5]. [cite_start]El contenido está organizado siguiendo el cronograma de movilidad internacional y el enfoque técnico de cada semestre[cite: 12, 18, 25, 36, 44, 52].
+Este repositorio contiene una colección exhaustiva de resúmenes, guías de ejercicios y material de estudio para la carrera de **Ingeniería en Telecomunicaciones** en la **Universidad de Palermo**, iniciando desde marzo de 2025.
 
----
-
-## ⛓️ Árbol de Correlativas Críticas
-Basado en el **Plan de Estudios Reorganizado 2026**, estas son las materias que habilitan el avance en las distintas ramas:
-
-### 🧮 Rama de Matemáticas y Señales
-* [cite_start]**Análisis Matemático IIIb (025054):** Habilita *Señales y Sistemas* y *Matemática Avanzada*[cite: 7, 15].
-* [cite_start]**Matemática Avanzada (026435):** Requisito indispensable para cursar *Electromagnetismo*[cite: 15, 22].
-* [cite_start]**Señales y Sistemas (026438):** Habilita *Teoría de Circuitos* y *Procesos Estocásticos*[cite: 19, 26, 43].
-* [cite_start]**Probabilidad y Estadística (025915):** Habilita *Teoría de la Información* y *Procesos Estocásticos*[cite: 11, 26].
-
-### ⚡ Rama de Física y Electrónica
-* [cite_start]**Física I (026095):** Habilita cursar *Física IIa* y *Física IIb*[cite: 6].
-* [cite_start]**Física IIb (026204):** Es la llave para *Dispositivos Electrónicos*, *Teoría de Circuitos* y *Laboratorio de Electrónica*[cite: 13, 19, 20, 28].
-* [cite_start]**Sistemas Digitales II (026178):** Necesaria para ingresar al *Laboratorio de Microprocesadores*[cite: 10, 21].
-* [cite_start]**Arquitectura de Computadores (025612):** Habilita *Sistemas Operativos* e *Introducción a los Sistemas Embebidos*[cite: 16, 23, 32].
+El contenido está organizado siguiendo el **Plan de Estudios Reorganizado 2026**, cubriendo actualmente hasta el tercer año de la cursada, incluyendo las etapas de formación técnica en Venezuela y Argentina.
 
 ---
 
-## 🗺️ Ruta de Aprendizaje Internacional
-[cite_start]El material está categorizado según la ubicación geográfica y el foco académico definido por año[cite: 60, 61, 62, 63]:
+## 📂 Estructura del Repositorio
 
-| Periodo | Ubicación | Foco Académico |
+La organización refleja la progresión académica y los focos temáticos definidos en el plan:
+
+### Año 1: Fundamentos (2025)
+* **Ciencias Básicas:** Análisis Matemático I/II, Álgebra, Física I.
+* **Introducción:** Programación, Telecomunicaciones e Ingeniería.
+* **Sistemas:** Sistemas Digitales I y Arquitectura de Computadores.
+
+### Año 2: El Núcleo Técnico (2026)
+* **Foco Matemático (Semestre 3):** Análisis IIIa/IIIb, Álgebra Lineal, Probabilidad y Estadística.
+* **Física y Señales (Semestre 4):** Física IIa/IIb, Señales y Sistemas, Matemática Avanzada.
+* **Sistemas:** Sistemas Digitales II y Sistemas de Representación.
+
+### Año 3: Especialización y Laboratorios (2027)
+* **Electrónica Aplicada:** Teoría de Circuitos, Dispositivos Electrónicos y Laboratorio de Electrónica.
+* **Sistemas Avanzados:** Laboratorio de Microprocesadores e Introducción a los Sistemas Embebidos.
+* **Comunicaciones:** Procesos Estocásticos y Teoría de la Información.
+
+---
+
+## ⛓️ Guía de Correlativas Críticas
+Para facilitar la planificación, se destacan las materias que habilitan ramas específicas del conocimiento:
+
+| Materia Origen | Habilita a... | Rama Destrabada |
 | :--- | :--- | :--- |
-| **2026** | 🇻🇪 Venezuela | [cite_start]Ciencias Básicas, Matemáticas y Física [cite: 5, 12] |
-| **2027** | 🇦🇷 Argentina | [cite_start]Electrónica, Comunicaciones e Infraestructura [cite: 18, 25] |
-| **2028** | 🇦🇷 Argentina | [cite_start]Sistemas Complejos, Redes y Gestión [cite: 36, 44] |
-| **2029** | 🇨🇴 Colombia | [cite_start]Trabajo Final de Grado y Práctica Profesional [cite: 52] |
+| **Física I** (026095) | Física IIa y Física IIb | Física Aplicada |
+| **Análisis Mat. IIIb** (025054) | Señales y Matemática Avanzada | Señales |
+| **Álgebra Lineal** (023209) | Introducción a la Robótica | Automatización |
+| **Sistemas Digitales II** (026178) | Lab. de Microprocesadores | Hardware |
+| **Probabilidad y Est.** (025915) | Procesos Estocásticos | Probabilística |
+| **Arquitectura de Comp.** (025612) | Sistemas Operativos y Embebidos | Computación |
+| **Matemática Avanzada** (026435) | Electromagnetismo | Campos y Ondas |
 
-[cite_start]*Proyecciones futuras del plan: Toronto (2030), Tokio (2032), Seúl (2034) y Zúrich (2036)*[cite: 64, 65, 66, 67].
+---
+
+## 🌎 Trayecto Internacional
+El plan de estudios contempla una formación global en distintas sedes:
+* **2026:** 🇻🇪 **Venezuela** (Sede BNS/CCS - Foco en Matemáticas, Física y Señales).
+* **2027:** 🇦🇷 **Argentina** (Sede CABA - Foco en Electrónica y Comunicaciones).
+* **2028:** 🇻🇪 / 🇦🇷 (Sistemas Complejos y Gestión).
+* **2029:** 🇨🇴 **Colombia** (Sede BOG - Final de Carrera y Práctica Profesional).
 
 ---
 
-## 🛠️ Contenido de Verano y Electivas
-Material disponible para cursadas intensivas y especializaciones:
-* [cite_start]**Verano:** Proyectos Internacionales, Taller de Radio (CONATEL), DevOps y Nivelación de Inglés (Cambridge)[cite: 3, 4, 24].
-* [cite_start]**Electivas:** Sistemas Operativos (025418), Modelos y Simulación (025920) e Introducción a la Robótica (027178)[cite: 32, 58, 59].
+## 🛠️ Cursos de Verano y Electivas
+Se incluyen recursos sobre certificaciones y materias complementarias mencionadas en el plan:
+* **DevOps** (027221): Electiva de alta demanda laboral.
+* **Inglés**: Preparación para niveles Cambridge (Nivel II y IV).
+* **Taller de Radio**: Certificación CONATEL (021436).
+* **Simulación**: Modelos y Simulación (025920) e Introducción a la Robótica (027178).
 
 ---
-> **Aviso:** Este material es un recurso de apoyo estudiantil. Consultar siempre al Departamento de Alumnos de la UP para información oficial sobre actas y correlatividades.
+
+## 🚀 Hoja de Ruta (Roadmap)
+El material se actualiza constantemente a medida que se avanza en la cursada:
+1. **2026:** Consolidación de la rama de Señales y Física avanzada.
+2. **2027:** Transición a Infraestructura, TCP/IP y Comunicaciones.
+3. **2028-2029:** Proyectos de Redes de Backbone, Comunicaciones Ópticas y Trabajo Final.
+
+---
+
+## 🤝 Contribuciones
+Si eres estudiante de la UP y tienes apuntes, correcciones o exámenes modelo que quieras sumar, ¡los **Pull Requests** son bienvenidos!
+
+> **Nota:** Este material es un complemento de estudio y no reemplaza la bibliografía oficial de la Universidad de Palermo.
